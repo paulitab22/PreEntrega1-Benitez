@@ -1,0 +1,14 @@
+.botonPrincipalNav{
+    font-size: 2rem;
+}
+
+.botonesNav{
+    background-color: transparent;
+    display:inline-block;
+    cursor:pointer;
+    color: blue;
+    border:none;
+    font-size: 1.5rem;
+    -webkit-text-size-adjust: 100%;
+    padding-right: 1.5rem;
+}
